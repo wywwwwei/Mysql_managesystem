@@ -27,7 +27,7 @@
 >选中行，并点击**delete item**即可
 
 ## FILTER
->**通过在输入框中输入过滤条件后点击Search即可筛选，FILTER格式：
->对应列的名称 [=<>] [比较的值]
->example
->columnname = 1 and columnname <> 1**
+>**通过在输入框中输入过滤条件后点击Search即可筛选，FILTER格式：**    
+>**对应列的名称 [=<>] [比较的值]**      
+>**example**    
+>**columnname = 1 and columnname <> 1**    
